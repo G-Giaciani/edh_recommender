@@ -1,6 +1,4 @@
-"""
-Popularidade das cartas segundo o EDHREC.
-"""
+"""Popularidade das cartas segundo o EDHREC."""
 
 import json
 import re
@@ -20,9 +18,9 @@ def _slug(nome: str) -> str:
     nome = unicodedata.normalize("NFKD", nome).encode("ascii", "ignore").decode()
     return re.sub(r"[^a-z0-9-]", "", nome.lower().replace(" ", "-"))
 
+
 def _baixar(slug: str) -> dict | None:
-    """O JSON do comandante, do disco ou da rede. None se ele nao existe la.
-    """
+    """O JSON do comandante, do disco ou da rede. None se ele nao existe la."""
     arquivo = PASTA / f"{slug}.json"
     if arquivo.exists():
         return json.loads(arquivo.read_text(encoding="utf-8"))
