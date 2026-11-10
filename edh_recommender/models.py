@@ -20,10 +20,10 @@ class Card:
     """Uma carta do Magic, imutavel."""
     oracle_id: str
     name: str
+    color_identity: tuple[str, ...]
     cmc: float
     type_line: str
-    color_identity: tuple[str, ...]
-    
+
 
     @classmethod
     def from_scryfall(cls, dados: dict) -> "Card":
@@ -41,8 +41,8 @@ class Deck:
     """Um deck: o comandante mais as outras 99 cartas."""
 
     name: str = ""
-    cards: list[Card] = field(default_factory=list)
     commander: Card | None = None
+    cards: list[Card] = field(default_factory=list)
 
     def todas_as_cartas(self) -> list["Card"]:
         if self.commander is None:

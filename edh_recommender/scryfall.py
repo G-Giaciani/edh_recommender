@@ -10,8 +10,9 @@ from edh_recommender.db import cores_para_texto, texto_para_cores
 from edh_recommender.models import Card, nome_da_frente
 
 _ultima_chamada = 0.0
-PAUSA = 0.1         # intervalo minimo entre requisicoes em segundos
-TENTATIVAS = 3      
+PAUSA = 0.5         # intervalo minimo entre requisicoes em segundos
+TENTATIVAS = 3
+ESPERA_429 = 30
 
 _client = httpx.Client(base_url=SCRYFALL_BASE, headers=SCRYFALL_HEADERS, timeout=30)
 
@@ -24,12 +25,12 @@ def _pausa():
 
 def _pedir(metodo, caminho, **kwargs):
     """Faz a requisicao respeitando a pausa e repete ate TENTATIVAS"""
-    for tentativa in range(TENTATIVAS):
+    for _ in range(TENTATIVAS):
         _pausa()
         resposta = metodo(caminho, **kwargs)
         if resposta.status_code != 429:
             return resposta
-        time.sleep(2 ** tentativa)
+        time.sleep(ESPERA_429)
     return resposta
 
 def buscar_carta(nome: str) -> Card | None:

@@ -15,4 +15,4 @@ EDHREC_BASE = "https://json.edhrec.com/pages/commanders"
 
 ARCHIDEKT_BASE = "https://archidekt.com/api/decks"
 
-ARQUIVO_AMOSTRA = Path("../decks_hold.txt")
+ARQUIVO_AMOSTRA = Path("decks_hold.txt")
