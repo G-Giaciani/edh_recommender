@@ -1,0 +1,37 @@
+Decks
+
+## Aggro
+https://archidekt.com/decks/8497473/animated_army_bloomburrow_commander
+https://archidekt.com/decks/12124803/temur_roar_tarkir_dragonstorm_commander
+https://archidekt.com/decks/59349/edgar_markov_aggrocombo_vampire_tribal
+https://archidekt.com/decks/5739658/arcades_the_strategist_walls_aggro
+https://archidekt.com/decks/7588668/75_ish_sergeant_john_benton_aggro_b3
+https://archidekt.com/decks/2443238/15_aggro
+https://archidekt.com/decks/2791842/15_mana_dork_aggro
+https://archidekt.com/decks/18490390/ur_dragon_aggro_2026
+https://archidekt.com/decks/53414/grand_warlord_radha_aggro_7
+https://archidekt.com/decks/14445330/raffine_aggro
+
+## Midrange
+https://archidekt.com/decks/11968725/imoti_fisico
+https://archidekt.com/decks/4779430/big_simic_aesi_tyrant_of_gyre_strait_jason
+https://archidekt.com/decks/7858209/eldrazi_incursion_modern_horizons_3_commander
+https://archidekt.com/decks/696285/upping_the_average_kaalia_of_the_vast
+https://archidekt.com/decks/4020290/counter_blessings_buildyourown_precon
+https://archidekt.com/decks/21319716/quandrix_unlimited_secrets_of_strixhaven
+https://archidekt.com/decks/3263022/tyranid_swarm_warhammer_40000_commander
+https://archidekt.com/decks/15931793/ureni_temur_dragon_midrange
+https://archidekt.com/decks/6646678/sheoldred_cedh_mono_black_midrange
+https://archidekt.com/decks/4926454/atraxa_midrange
+
+## Control
+https://archidekt.com/decks/12028998/sultai_arisen_tarkir_dragonstorm_commander
+https://archidekt.com/decks/7817483/100_sauron_the_dark_lord_spellslinger_b2b3
+https://archidekt.com/decks/11054763/eternal_might_aetherdrift_commander
+https://archidekt.com/decks/5775225/blood_rites_the_lost_caverns_of_ixalan_commander
+https://archidekt.com/decks/14687174/bracket_3_loot_control
+https://archidekt.com/decks/7118361/sanguine_control
+https://archidekt.com/decks/7667132/50_galazeth_prismari_control_b3
+https://archidekt.com/decks/16034855/kairi_clone_control_50_budget_deck
+https://archidekt.com/decks/9824314/heliod_control
+https://archidekt.com/decks/11462875/yshtola_control
