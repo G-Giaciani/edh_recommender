@@ -1,0 +1,853 @@
+{
+ "id": 7588668,
+ "name": "$75 ish Sergeant John Benton Aggro B3",
+ "categories": [
+  {
+   "name": "Defensive",
+   "includedInDeck": true
+  },
+  {
+   "name": "Commander",
+   "includedInDeck": true
+  },
+  {
+   "name": "Maybeboard",
+   "includedInDeck": false
+  },
+  {
+   "name": "Sideboard",
+   "includedInDeck": true
+  },
+  {
+   "name": "Stax",
+   "includedInDeck": true
+  },
+  {
+   "name": "Enchantment",
+   "includedInDeck": true
+  },
+  {
+   "name": "Removal",
+   "includedInDeck": true
+  },
+  {
+   "name": "Lifegain",
+   "includedInDeck": true
+  },
+  {
+   "name": "Land",
+   "includedInDeck": true
+  },
+  {
+   "name": "Counters",
+   "includedInDeck": true
+  },
+  {
+   "name": "Instant",
+   "includedInDeck": true
+  },
+  {
+   "name": "Protection",
+   "includedInDeck": true
+  },
+  {
+   "name": "Pump",
+   "includedInDeck": true
+  },
+  {
+   "name": "Ramp",
+   "includedInDeck": true
+  },
+  {
+   "name": "Evasion",
+   "includedInDeck": true
+  },
+  {
+   "name": "Draw",
+   "includedInDeck": true
+  }
+ ],
+ "cards": [
+  {
+   "quantity": 1,
+   "categories": [
+    "Defensive"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Armadillo Cloak"
+    }
+   }
+  },
+  {
+   "quantity": 20,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Forest"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Ramp"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Elvish Mystic"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Pump"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Exoskeletal Armor"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Protection"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Faith's Shield"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Protection"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Flare of Faith"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Ramp"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Fyndhorn Elves"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Pump"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Giant Growth"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Pump"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Arrester's Zeal"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Defensive"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Face of Divinity"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Defensive"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Blessed Defiance"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Protection"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Gods Willing"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Protection"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Karametra's Blessing"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Pump"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Larger Than Life"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Protection"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Loran's Escape"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Pump"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Might of Old Krosa"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Pump"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Might of the Nephilim"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Pump"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Monstrous Growth"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Pump"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Phytoburst"
+    }
+   }
+  },
+  {
+   "quantity": 11,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Plains"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Pump"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Prey's Vengeance"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Protection"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Ranger's Guile"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Pump"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Regent's Authority"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Pump"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Seal of Strength"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Protection"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Sheltering Light"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Protection"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Snakeskin Veil"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Protection"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Tamiyo's Safekeeping"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Pump"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Titanic Growth"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Ramp"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Wild Growth"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Defensive"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Unflinching Courage"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Pump"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Rancor"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Vastwood Fortification // Vastwood Thicket"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Defensive"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Winds of Rath"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Defensive"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Spirit Link"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Defensive"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Radiant Grace // Radiant Restraints"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Pump"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Homestead Courage"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Pump"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Gryff's Boon"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Pump"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Hand of Vecna"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Pump"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Empyrial Armor"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Pump"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Become Immense"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Protection"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Noble Heritage"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Pump"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Kaya's Onslaught"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Ramp"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Arbor Elf"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Pump"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Belt of Giant Strength"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Protection"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Celestial Armor"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Pump"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Invigorate"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Pump"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Duelist's Heritage"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Ramp"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Birds of Paradise"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Protection"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Defend the Rider"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Protection"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Light the Way"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Counters"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Predatory Hunger"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Pump"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Scale Up"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Reliquary Tower"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Ramp"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Boreal Druid"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Pump"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Audacity"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Ramp"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Avacyn's Pilgrim"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Protection"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Blacksmith's Skill"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Protection"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Blossoming Defense"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Defensive"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Daybreak Coronet"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Protection"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Emerge Unscathed"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Pump"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Groundswell"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Protection"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Hyena Umbra"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Ramp"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Llanowar Elves"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Defensive"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Single Combat"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Protection"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Spider Umbra"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Ramp"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Utopia Sprawl"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Protection"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Vines of Vastwood"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Ramp"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Elvish Spirit Guide"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Ramp"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Sol Ring"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Protection"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Tyvar's Stand"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Commander"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Sergeant John Benton"
+    }
+   }
+  }
+ ]
+}

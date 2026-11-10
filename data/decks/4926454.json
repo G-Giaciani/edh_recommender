@@ -1,0 +1,1140 @@
+{
+ "id": 4926454,
+ "name": "atraxa midrange",
+ "categories": [
+  {
+   "name": "Enchantment",
+   "includedInDeck": true
+  },
+  {
+   "name": "Sorcery",
+   "includedInDeck": true
+  },
+  {
+   "name": "Planeswalker",
+   "includedInDeck": true
+  },
+  {
+   "name": "Creature",
+   "includedInDeck": true
+  },
+  {
+   "name": "Land",
+   "includedInDeck": true
+  },
+  {
+   "name": "Instant",
+   "includedInDeck": true
+  },
+  {
+   "name": "Artifact",
+   "includedInDeck": true
+  },
+  {
+   "name": "Commander",
+   "includedInDeck": true
+  }
+ ],
+ "cards": [
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Hallowed Fountain"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Spellseeker"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Instant"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Force of Vigor"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Instant"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Fierce Guardianship"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Enchantment"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Smothering Tithe"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Instant"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Force of Will"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Instant"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Dovin's Veto"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Eternal Scourge"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Instant"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Vampiric Tutor"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Planeswalker"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Teferi, Time Raveler"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Instant"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Enlightened Tutor"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Enchantment"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Food Chain"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Instant"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Flicker of Fate"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Enchantment"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Mystic Remora"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Artifact"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Sol Ring"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Artifact"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Chrome Mox"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Thassa's Oracle"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Walking Ballista"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Delighted Halfling"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Instant"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Dark Ritual"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Instant"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Ephemerate"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Command Tower"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Instant"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Mana Drain"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Sorcery"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Approach of the Second Sun"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Marsh Flats"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Polluted Delta"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Windswept Heath"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Verdant Catacombs"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Urza's Saga"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Ancient Tomb"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Boseiju, Who Endures"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Artifact"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Lotus Petal"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Instant"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Tainted Pact"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Instant"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Swan Song"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Gemstone Caverns"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Instant"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Mindbreak Trap"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Mistrise Village"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "City of Traitors"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Instant"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Noxious Revival"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Instant"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Gifts Ungiven"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Sorcery"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Sevinne's Reclamation"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Artifact"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Panharmonicon"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Talion, the Kindly Lord"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Palinchron"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Kutzil, Malamet Exemplar"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Emiel the Blessed"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Derevi, Empyrial Tactician"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Instant"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Borne Upon a Wind"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Enchantment"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Thought Lash"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Gaea's Cradle"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Scrubland"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Artifact"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Talisman of Hierarchy"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Artifact"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Talisman of Progress"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Artifact"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Thought Vessel"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Artifact"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Grim Monolith"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Artifact"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Mox Diamond"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Displacer Kitten"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Command Beacon"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Orcish Bowmasters"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Instant"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Mental Misstep"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Instant"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Force of Negation"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Savannah"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Shifting Woodland"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Tropical Island"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Tundra"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Bayou"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Underground Sea"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Overgrown Tomb"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Artifact"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "The One Ring"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Artifact"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Lion's Eye Diamond"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Artifact"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Talisman of Curiosity"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Pollywog Prodigy"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Sowing Mycospawn"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Instant"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Pact of Negation"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Instant"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Orim's Chant"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Instant"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Demonic Consultation"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Phantasmal Image"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Breeding Pool"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Emergence Zone"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Sorcery"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Culling Ritual"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Sorcery"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Green Sun's Zenith"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Grand Arbiter Augustin IV"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Esper Sentinel"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Artifact"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Mox Amber"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Artifact"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Mana Vault"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Eternal Witness"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Elvish Spirit Guide"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Enchantment"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Sylvan Library"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Birds of Paradise"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Instant"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Cyclonic Rift"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Noble Hierarch"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Recruiter of the Guard"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Flooded Strand"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Enchantment"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Rhystic Study"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Misty Rainforest"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Sorcery"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Demonic Tutor"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Cavern of Souls"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Mana Confluence"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Artifact"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Arcane Signet"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Commander"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Atraxa, Grand Unifier"
+    }
+   }
+  }
+ ]
+}

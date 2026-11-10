@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.egg-info/
+.pytest_cache/
+/data/*
+!/data/decks/
+.obsidian
+/test*.py
+/tests/
+/conftest.py
+/decks_teste/
+/progresso.py
+/py.bat
+/.vscode/
+/referencia/

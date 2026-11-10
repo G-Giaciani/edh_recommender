@@ -1,0 +1,1014 @@
+{
+ "id": 7817483,
+ "name": "$100  Sauron, The Dark Lord Spellslinger B2/B3",
+ "categories": [
+  {
+   "name": "Evasion",
+   "includedInDeck": true
+  },
+  {
+   "name": "Recursion",
+   "includedInDeck": true
+  },
+  {
+   "name": "Win Conditions",
+   "includedInDeck": true
+  },
+  {
+   "name": "Recursion / GY Synergy",
+   "includedInDeck": true
+  },
+  {
+   "name": "Amass",
+   "includedInDeck": true
+  },
+  {
+   "name": "Tutor",
+   "includedInDeck": true
+  },
+  {
+   "name": "Tokens",
+   "includedInDeck": true
+  },
+  {
+   "name": "Burn",
+   "includedInDeck": true
+  },
+  {
+   "name": "Land",
+   "includedInDeck": true
+  },
+  {
+   "name": "Removal",
+   "includedInDeck": true
+  },
+  {
+   "name": "Ramp",
+   "includedInDeck": true
+  },
+  {
+   "name": "Draw",
+   "includedInDeck": true
+  },
+  {
+   "name": "Commander",
+   "includedInDeck": true
+  },
+  {
+   "name": "Maybeboard",
+   "includedInDeck": false
+  },
+  {
+   "name": "Sideboard",
+   "includedInDeck": true
+  }
+ ],
+ "cards": [
+  {
+   "quantity": 1,
+   "categories": [
+    "Removal"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Arcane Denial"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Win Conditions"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Chandra's Ignition"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Command Tower"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Crumbling Necropolis"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Dimir Aqueduct"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Drowned Catacomb"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Faithless Looting"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Ferrous Lake"
+    }
+   }
+  },
+  {
+   "quantity": 7,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Island"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Recursion / GY Synergy"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Kess, Dissident Mage"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Ramp"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Mindsplice Apparatus"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Recursion / GY Synergy"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Mystic Retrieval"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Removal"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Negate"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Rakdos Carnarium"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Ramp"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Rakdos Signet"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Removal"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Ranger's Firebrand"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Rogue's Passage"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Shivan Reef"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Ramp"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Sol Ring"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Sulfurous Springs"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Sulfur Falls"
+    }
+   }
+  },
+  {
+   "quantity": 4,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Swamp"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Underground River"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Arcane Infusion"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Ramp"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Arcane Signet"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Birthday Escape"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Call of the Ring"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Removal"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Claim the Precious"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Darkwater Catacombs"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Deep Analysis"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Ramp"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Deranged Assistant"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Dihada's Ploy"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Ramp"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Dark Ritual"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Electric Revelation"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Evolving Wilds"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Fact or Fiction"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Removal"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Foray of Orcs"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Removal"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Immolating Gyre"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Ramp"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Inherited Envelope"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Ramp"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Izzet Signet"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Maestros Theater"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Memory Deluge"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Ramp"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Millikin"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Pirate's Pillage"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Ramp"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Relic of Sauron"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Shadowblood Ridge"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Removal"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Soothing of Sméagol"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Amass"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Mauhúr, Uruk-hai Captain"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Amass"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Saruman, the White Hand"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Amass"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Lazotep Chancellor"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Recursion / GY Synergy"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Galvanic Iteration"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Win Conditions"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Soul's Fire"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Win Conditions"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Gravitic Punch"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Ramp"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Talisman of Creativity"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Removal"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Terminate"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Terramorphic Expanse"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Unexpected Windfall"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Removal"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Widespread Brutality"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Recursion / GY Synergy"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Summons of Saruman"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Izzet Boilerworks"
+    }
+   }
+  },
+  {
+   "quantity": 6,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Mountain"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Ringsight"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Big Score"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Removal"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Countersquall"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Removal"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Price of Fame"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Cascade Bluffs"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Ramp"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Dimir Signet"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Dragonskull Summit"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Recursion / GY Synergy"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Increasing Vengeance"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Ramp"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Nightscape Familiar"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Ramp"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Talisman of Dominance"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Ramp"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Talisman of Indulgence"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Ramp"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Fellwar Stone"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Seize the Spoils"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Removal"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Gollum's Bite"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Recursion / GY Synergy"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Mission Briefing"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Scroll of Isildur"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Forbidden Alchemy"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Removal"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Breaking of the Fellowship"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Ramp"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Goblin Electromancer"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Island"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "The Black Gate"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Removal"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Molten Collapse"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Commander"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Sauron, the Dark Lord"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Recursion / GY Synergy"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Mystical Teachings"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Removal"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Artful Dodge"
+    }
+   }
+  }
+ ]
+}

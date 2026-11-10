@@ -1,0 +1,1050 @@
+{
+ "id": 6646678,
+ "name": "Sheoldred, CEDH Mono Black Midrange",
+ "categories": [
+  {
+   "name": "Lands (32 with MDFC’s)",
+   "includedInDeck": true
+  },
+  {
+   "name": "Land",
+   "includedInDeck": true
+  },
+  {
+   "name": "Enchantment",
+   "includedInDeck": true
+  },
+  {
+   "name": "Stax",
+   "includedInDeck": true
+  },
+  {
+   "name": "Sorcery",
+   "includedInDeck": true
+  },
+  {
+   "name": "Tokens & Extras",
+   "includedInDeck": false
+  },
+  {
+   "name": "Sideboard",
+   "includedInDeck": true
+  },
+  {
+   "name": "Artifact",
+   "includedInDeck": true
+  },
+  {
+   "name": "Instant",
+   "includedInDeck": true
+  },
+  {
+   "name": "Mill",
+   "includedInDeck": true
+  },
+  {
+   "name": "Creature",
+   "includedInDeck": true
+  },
+  {
+   "name": "Lifegain",
+   "includedInDeck": true
+  },
+  {
+   "name": "Recursion",
+   "includedInDeck": true
+  },
+  {
+   "name": "Tutor",
+   "includedInDeck": true
+  },
+  {
+   "name": "Finisher",
+   "includedInDeck": true
+  },
+  {
+   "name": "Drain",
+   "includedInDeck": true
+  },
+  {
+   "name": "Discard",
+   "includedInDeck": true
+  },
+  {
+   "name": "Ramp",
+   "includedInDeck": true
+  },
+  {
+   "name": "Removal",
+   "includedInDeck": true
+  },
+  {
+   "name": "Tokens",
+   "includedInDeck": true
+  },
+  {
+   "name": "Burn",
+   "includedInDeck": true
+  },
+  {
+   "name": "Draw",
+   "includedInDeck": true
+  },
+  {
+   "name": "Protection",
+   "includedInDeck": true
+  },
+  {
+   "name": "Commander",
+   "includedInDeck": true
+  }
+ ],
+ "cards": [
+  {
+   "quantity": 1,
+   "categories": [
+    "Tutor"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Demonic Tutor"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Removal"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Orcish Bowmasters"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Lands (32 with MDFC’s)"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Geier Reach Sanitarium"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Tutor"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Vampiric Tutor"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Removal"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Toxic Deluge"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Protection"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Malakir Rebirth // Malakir Mire"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Ramp"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Skirge Familiar"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Memory Jar"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Temple Bell"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Tutor"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Wishclaw Talisman"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Bolas's Citadel"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Necropotence"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Sign in Blood"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Discard"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Dark Deal"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Ramp"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Arcane Signet"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Ramp"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "K'rrik, Son of Yawgmoth"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Phyrexian Arena"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Erebos, God of the Dead"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Tutor"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Beseech the Queen"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Night's Whisper"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Mill"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Mindcrank"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Black Market Connections"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Recursion"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Animate Dead"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Ramp"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Thought Vessel"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Ramp"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Lotus Petal"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Tutor"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Insatiable Avarice"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Discard"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Chain of Smog"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Lands (32 with MDFC’s)"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Reliquary Tower"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Removal"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Feed the Swarm"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Ramp"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Dark Ritual"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Recursion"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Reanimate"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Tutor"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Grim Tutor"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Peer into the Abyss"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Sensei's Divining Top"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Ramp"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Jet Medallion"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Ramp"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Bubbling Muck"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Protection"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Imp's Mischief"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Removal"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Dismember"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Ramp"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Rain of Filth"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Ramp"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Sol Ring"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Tutor"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Praetor's Grasp"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Stax"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Dauthi Voidwalker"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Ramp"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Mana Vault"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Dark Confidant"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Tokens & Extras"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Treasure"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Tokens & Extras"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Orc Army"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Tokens & Extras"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Shapeshifter"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Stax"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Defense Grid"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "The One Ring"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Drain"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Bloodchief Ascension"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Professor Onyx"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Lands (32 with MDFC’s)"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Takenuma, Abandoned Mire"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Lands (32 with MDFC’s)"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Cabal Coffers"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Lands (32 with MDFC’s)"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Mikokoro, Center of the Sea"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Necrodominance"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Spellbook"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Lands (32 with MDFC’s)"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Urborg, Tomb of Yawgmoth"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Lands (32 with MDFC’s)"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Boseiju, Who Shelters All"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Lands (32 with MDFC’s)"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Crystal Vein"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Lands (32 with MDFC’s)"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "War Room"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Ramp"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Fellwar Stone"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Ramp"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Culling the Weak"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Removal"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Bitter Triumph"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Lifegain"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Aetherflux Reservoir"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Ramp"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Cabal Ritual"
+    }
+   }
+  },
+  {
+   "quantity": 18,
+   "categories": [
+    "Lands (32 with MDFC’s)"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Swamp"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Tutor"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Imperial Seal"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Teferi's Puzzle Box"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Removal"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Withering Torment"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Removal"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Boggart Trawler // Boggart Bog"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Removal"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Fell the Profane // Fell Mire"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Lands (32 with MDFC’s)"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Urza's Saga"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Removal"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Snuff Out"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Removal"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Force of Despair"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Ad Nauseam"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Ramp"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Mox Opal"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Ramp"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Mox Amber"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Ramp"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Mox Diamond"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Ramp"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Chrome Mox"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Recursion"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Yawgmoth's Will"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Removal"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Deadly Rollick"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Lands (32 with MDFC’s)"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Ancient Tomb"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Tutor"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Scheming Symmetry"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Commander"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Sheoldred, the Apocalypse"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Stax"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Opposition Agent"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Greed"
+    }
+   }
+  }
+ ]
+}

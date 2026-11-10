@@ -1,0 +1,1017 @@
+{
+ "id": 14687174,
+ "name": "[Bracket 3] Loot Control",
+ "categories": [
+  {
+   "name": "Flash",
+   "includedInDeck": true
+  },
+  {
+   "name": "Copy",
+   "includedInDeck": true
+  },
+  {
+   "name": "Land",
+   "includedInDeck": true
+  },
+  {
+   "name": "Stax",
+   "includedInDeck": true
+  },
+  {
+   "name": "Creature",
+   "includedInDeck": true
+  },
+  {
+   "name": "Reanimator Target",
+   "includedInDeck": true
+  },
+  {
+   "name": "Drain",
+   "includedInDeck": true
+  },
+  {
+   "name": "Discard",
+   "includedInDeck": true
+  },
+  {
+   "name": "Mill",
+   "includedInDeck": true
+  },
+  {
+   "name": "Protection",
+   "includedInDeck": true
+  },
+  {
+   "name": "Tokens",
+   "includedInDeck": true
+  },
+  {
+   "name": "Loot",
+   "includedInDeck": true
+  },
+  {
+   "name": "Ramp",
+   "includedInDeck": true
+  },
+  {
+   "name": "Draw",
+   "includedInDeck": true
+  },
+  {
+   "name": "Recursion",
+   "includedInDeck": true
+  },
+  {
+   "name": "Board wipes",
+   "includedInDeck": true
+  },
+  {
+   "name": "Tutor",
+   "includedInDeck": true
+  },
+  {
+   "name": "Counters",
+   "includedInDeck": true
+  },
+  {
+   "name": "Removal",
+   "includedInDeck": true
+  },
+  {
+   "name": "Commander",
+   "includedInDeck": true
+  }
+ ],
+ "cards": [
+  {
+   "quantity": 1,
+   "categories": [
+    "Counters",
+    "Removal"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Swan Song"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Counters",
+    "Removal"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Counterspell"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Counters",
+    "Removal"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Disallow"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Counters",
+    "Removal"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Tishana's Tidebinder"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Counters",
+    "Removal"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Mystic Confluence"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Board wipes",
+    "Removal"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Evacuation"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Board wipes",
+    "Removal"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Blood Money"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Counters",
+    "Removal"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Circular Logic"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Commander"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Oskar, Rubbish Reclaimer"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Counters",
+    "Removal"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Counterpoint"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Board wipes",
+    "Removal"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Blasphemous Edict"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Removal"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Deadly Rollick"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Removal"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Feed the Swarm"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Removal"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Into the Flood Maw"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Counters",
+    "Removal"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Three Steps Ahead"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Phyrexian Arena"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Teferi's Ageless Insight"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Mystic Remora"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Talion, the Kindly Lord"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Draw",
+    "Ramp"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Archmage of Runes"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Ramp"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Mindsplice Apparatus"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Draw",
+    "Ramp",
+    "Reanimator Target"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Sphinx of the Second Sun"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Loot",
+    "Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Rona, Herald of Invasion // Rona, Tolarian Obliterator"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Loot",
+    "Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Likeness Looter"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Loot",
+    "Recursion",
+    "Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Vohar, Vodalian Desecrator"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Tokens"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Dying to Serve"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Tokens"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Talrand, Sky Summoner"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Recursion"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Sphinx of Forgotten Lore"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Protection",
+    "Removal",
+    "Reanimator Target"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Archfiend of Ifnir"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Protection"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Propaganda"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Protection"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "No Mercy"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Recursion"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Persist"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Recursion"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Reanimate"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Loot",
+    "Ramp"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Matzalantli, the Great Door // The Core"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Ramp"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Thought Vessel"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Ramp"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Arcane Signet"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Ramp"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Sol Ring"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Ramp"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Dimir Signet"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Ramp"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Talisman of Dominance"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Ramp"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Fellwar Stone"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Ramp"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Mind Stone"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Ramp"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Sapphire Medallion"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Flash",
+    "Protection"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Final-Word Phantom"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Recursion",
+    "Reanimator Target"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "The Scarab God"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Removal",
+    "Reanimator Target"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Hullbreaker Horror"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Monument to Endurance"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Jace, the Mind Sculptor"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Ramp"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Emet-Selch of the Third Seat"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Stax",
+    "Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Notion Thief"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Stax",
+    "Discard"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Painful Quandary"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Recursion"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Rise of the Dark Realms"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Psychic Frog"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Ramp"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Patriar's Seal"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Loot",
+    "Ramp"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Baral, Chief of Compliance"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Protection",
+    "Removal"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Malevolent Hermit // Benevolent Geist"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Recursion",
+    "Reanimator Target"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Dralnu, Lich Lord"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Recursion"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Snapcaster Mage"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Flash"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Borne Upon a Wind"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Flash",
+    "Protection"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "High Fae Trickster"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Loot",
+    "Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Merfolk Looter"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Removal"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Fell the Profane // Fell Mire"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Counters",
+    "Removal"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Sink into Stupor // Soporific Springs"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land",
+    "Loot"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Spymaster's Vault"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land",
+    "Recursion"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Mystic Sanctuary"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Cephalid Coliseum"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Drownyard Temple"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Watery Grave"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Shipwreck Marsh"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Underground River"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Sunken Hollow"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Command Tower"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Drowned Catacomb"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Choked Estuary"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Fetid Pools"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Counters",
+    "Removal"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Jwari Disruption // Jwari Ruins"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Path of Ancestry"
+    }
+   }
+  },
+  {
+   "quantity": 15,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Island"
+    }
+   }
+  },
+  {
+   "quantity": 6,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Swamp"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Counters",
+    "Removal"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "An Offer You Can't Refuse"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Loot",
+    "Recursion",
+    "Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Jace, Vryn's Prodigy // Jace, Telepath Unbound"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Reliquary Tower"
+    }
+   }
+  }
+ ]
+}

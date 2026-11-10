@@ -1,0 +1,747 @@
+{
+ "id": 9824314,
+ "name": "Heliod Control",
+ "categories": [
+  {
+   "name": "Commander",
+   "includedInDeck": true
+  },
+  {
+   "name": "Maybeboard",
+   "includedInDeck": false
+  },
+  {
+   "name": "Sideboard",
+   "includedInDeck": true
+  },
+  {
+   "name": "Blink",
+   "includedInDeck": true
+  },
+  {
+   "name": "Recursion",
+   "includedInDeck": true
+  },
+  {
+   "name": "Land",
+   "includedInDeck": true
+  },
+  {
+   "name": "Finisher",
+   "includedInDeck": true
+  },
+  {
+   "name": "Enchantment",
+   "includedInDeck": true
+  },
+  {
+   "name": "Theft",
+   "includedInDeck": true
+  },
+  {
+   "name": "Protection",
+   "includedInDeck": true
+  },
+  {
+   "name": "Removal",
+   "includedInDeck": true
+  },
+  {
+   "name": "Lifegain",
+   "includedInDeck": true
+  },
+  {
+   "name": "Stax",
+   "includedInDeck": true
+  },
+  {
+   "name": "Draw",
+   "includedInDeck": true
+  },
+  {
+   "name": "Tokens",
+   "includedInDeck": true
+  },
+  {
+   "name": "Ramp",
+   "includedInDeck": true
+  },
+  {
+   "name": "Tutor",
+   "includedInDeck": true
+  }
+ ],
+ "cards": [
+  {
+   "quantity": 1,
+   "categories": [
+    "Tutor"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Academy Rector"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Protection"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Forcefield"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Tokens"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Archon of Sun's Grace"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Beza, the Bounding Spring"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Stax"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Blind Obedience"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Lifegain"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Case of the Uneaten Feast"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Ramp"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Claim Jumper"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Stax"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Crackdown"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Removal"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Darksteel Mutation"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Tokens"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Divine Visitation"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Stax"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Drannith Magistrate"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Endless Atlas"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Ramp"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Endless Horizons"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Tutor"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Enlightened Tutor"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Removal"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Farewell"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Tokens"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Felidar Retreat"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Removal"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Generous Gift"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Removal"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Get Lost"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Protection"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Ghostly Prison"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Ramp"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Gilded Lotus"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Protection"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Glory"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Removal"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Goblin Charbelcher"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Removal"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Grasp of Fate"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Theft"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Helm of Possession"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Stax"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Humility"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Tutor"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Idyllic Tutor"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Removal"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Lapse of Certainty"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Ramp"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Legion's Landing // Adanto, the First Fort"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Mangara, the Diplomat"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Memory Jar"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Mind's Eye"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Protection"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Norn's Annex"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Enchantment"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Null Chamber"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Tokens"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Ojer Taq, Deepest Foundation // Temple of Civilization"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Removal"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Ondu Inversion // Ondu Skyruins"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Finisher"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Opalescence"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Removal"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Razorgrass Ambush // Razorgrass Field"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Relic Vial"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Recursion"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Replenish"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Protection"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Riot Control"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Stax"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Rule of Law"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Recursion"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Sevinne's Reclamation"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Tokens"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Sigil of the Empty Throne"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Blink"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Skybind"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Stax"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Smokestack"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Removal"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Soul-Guide Lantern"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Protection"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Sphere of Safety"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Recursion"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Starfield of Nyx"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Removal"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Sunfall"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Protection"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Teferi's Protection"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Removal"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "The Eternal Wanderer"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Ramp"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Throne of Eldraine"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Tocasia's Welcome"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Trouble in Pairs"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Removal"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Vanquish the Horde"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Removal"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Witch Enchanter // Witch-Blessed Meadow"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Removal"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "World Queller"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Removal"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Wrath of God"
+    }
+   }
+  },
+  {
+   "quantity": 40,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Plains"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Commander"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Heliod, God of the Sun"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Tokens"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Elspeth, Sun's Champion"
+    }
+   }
+  }
+ ]
+}

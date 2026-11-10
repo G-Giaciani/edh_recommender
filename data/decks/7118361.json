@@ -1,0 +1,843 @@
+{
+ "id": 7118361,
+ "name": "Sanguine Control",
+ "categories": [
+  {
+   "name": "Planeswalker",
+   "includedInDeck": true
+  },
+  {
+   "name": "Land",
+   "includedInDeck": true
+  },
+  {
+   "name": "Artifact",
+   "includedInDeck": true
+  },
+  {
+   "name": "Instant",
+   "includedInDeck": true
+  },
+  {
+   "name": "Enchantment",
+   "includedInDeck": true
+  },
+  {
+   "name": "Sorcery",
+   "includedInDeck": true
+  },
+  {
+   "name": "Commander",
+   "includedInDeck": true
+  },
+  {
+   "name": "Creature",
+   "includedInDeck": true
+  }
+ ],
+ "cards": [
+  {
+   "quantity": 11,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Plains"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Sorcery"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Oketra's Last Mercy"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Burnished Hart"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Instant"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Necrologia"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Enchantment"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "The Eldest Reborn"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Stoic Farmer"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Enchantment"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Unspeakable Symbol"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Instant"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Fated Retribution"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Thrull Parasite"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Sorcery"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Ondu Inversion // Ondu Skyruins"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Instant"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Dire Tactics"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Sorcery"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Unburial Rites"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Sorcery"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Ancient Craving"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Instant"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Crush Contraband"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Planeswalker"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Ob Nixilis Reignited"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Instant"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Hagra Mauling // Hagra Broodpit"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Sorcery"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Profound Journey"
+    }
+   }
+  },
+  {
+   "quantity": 18,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Swamp"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Mischievous Poltergeist"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Orzhov Basilica"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Artifact"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Orzhov Signet"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Wall of Omens"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Resolute Archangel"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Sorcery"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Diabolic Tutor"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Evolving Wilds"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Instant"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Final Payment"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Scoured Barrens"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Sorcery"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Sign in Blood"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Instant"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Soul Shatter"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Commander"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Kambal, Consul of Allocation"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Enchantment"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Axis of Mortality"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Sorcery"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Revival // Revenge"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Sorcery"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Kaya's Wrath"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Sorcery"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Ambition's Cost"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Syr Konrad, the Grim"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Obzedat, Ghost Council"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Sorcery"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Diabolic Revelation"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Sorcery"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Hour of Revelation"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Enchantment"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Underworld Connections"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Sorcery"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Increasing Ambition"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Artifact"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Tainted Sigil"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Instant"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Beacon of Immortality"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Corpse Augur"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Artifact"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Commander's Sphere"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Snowfield Sinkhole"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Sorcery"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Dismantling Wave"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Sorcery"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Obzedat's Aid"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Enchantment"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Sanguine Bond"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Sorcery"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Read the Bones"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Orzhov Guildgate"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Artifact"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Wishclaw Talisman"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Sorcery"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Behold the Beyond"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Instant"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Succumb to Temptation"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Deadeye Tracker"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Vizkopa Guildmage"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Thalia's Lancers"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Instant"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Despark"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Artifact"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Prismatic Lens"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Forsaken Sanctuary"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Artifact"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Bolas's Citadel"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Instant"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Mortify"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Sun Titan"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Vampire Nighthawk"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Enchantment"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Arguel's Blood Fast // Temple of Aclazotz"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Artifact"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Hedron Archive"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Tithe Drinker"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Sorcery"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "End Hostilities"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Terramorphic Expanse"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Kor Cartographer"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Instant"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Kaya's Guile"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Luminate Primordial"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Artifact"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Orzhov Locket"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Massacre Girl"
+    }
+   }
+  }
+ ]
+}

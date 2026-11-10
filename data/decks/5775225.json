@@ -1,0 +1,939 @@
+{
+ "id": 5775225,
+ "name": "Blood Rites - The Lost Caverns of Ixalan Commander",
+ "categories": [
+  {
+   "name": "Planeswalker",
+   "includedInDeck": true
+  },
+  {
+   "name": "Instant",
+   "includedInDeck": true
+  },
+  {
+   "name": "Enchantment",
+   "includedInDeck": true
+  },
+  {
+   "name": "Land",
+   "includedInDeck": true
+  },
+  {
+   "name": "Creature",
+   "includedInDeck": true
+  },
+  {
+   "name": "Sorcery",
+   "includedInDeck": true
+  },
+  {
+   "name": "Artifact",
+   "includedInDeck": true
+  },
+  {
+   "name": "Commander",
+   "includedInDeck": true
+  },
+  {
+   "name": "Maybeboard",
+   "includedInDeck": false
+  },
+  {
+   "name": "Sideboard",
+   "includedInDeck": true
+  }
+ ],
+ "cards": [
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Champion of Dusk"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Bartolomé del Presidio"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Carmen, Cruel Skymarcher"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Charismatic Conqueror"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Command Tower"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Dusk Legion Sergeant"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Elenda's Hierophant"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Falkenrath Noble"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Enchantment"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "March of the Canonized"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Master of Dark Rites"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Martyr of Dusk"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Order of Sacred Dusk"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Path of Ancestry"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Enchantment"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Promise of Aclazotz // Foul Rebirth"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Redemption Choir"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Sanctum Seeker"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Twilight Prophet"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Windbrisk Heights"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Yahenni, Undying Partisan"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Commander"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Clavileño, First of the Blessed"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Sorcery"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Austere Command"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Artifact"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Blade of the Bloodchief"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Blood Artist"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Bloodghast"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Bloodline Necromancer"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Bloodtracker"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Bojuka Bog"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Butcher of Malakir"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Artifact"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Commander's Sphere"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Cordial Vampire"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Crossway Troublemakers"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Cruel Celebrant"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Sorcery"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Damn"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Drana, Liberator of Malakir"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Dusk Legion Zealot"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Elenda, the Dusk Rose"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Enchantment"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Etchings of the Chosen"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Enchantment"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Exquisite Blood"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Artifact"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Glass-Cast Heart"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Artifact"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Heirloom Blade"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Indulgent Aristocrat"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Isolated Chapel"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Enchantment"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Kindred Boon"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Legion Lieutenant"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Mavren Fein, Dusk Apostle"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Unclaimed Territory"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Instant"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Utter End"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Vault of the Archangel"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Instant"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Village Rites"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Viscera Seer"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Voldaren Estate"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Vona, Butcher of Magan"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Artifact"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Wayfarer's Bauble"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Welcoming Vampire"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Artifact"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Mind Stone"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Myriad Landscape"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Sorcery"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "New Blood"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Nighthawk Scavenger"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Oathsworn Vampire"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Sorcery"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Olivia's Wrath"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Orzhov Basilica"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Artifact"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Orzhov Signet"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Sorcery"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Pact of the Serpent"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Patron of the Vein"
+    }
+   }
+  },
+  {
+   "quantity": 8,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Plains"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Enchantment"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Radiant Destiny"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Instant"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Return to Dust"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Rogue's Passage"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Secluded Courtyard"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Shineshadow Snarl"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Artifact"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Sol Ring"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Planeswalker"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Sorin, Lord of Innistrad"
+    }
+   }
+  },
+  {
+   "quantity": 13,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Swamp"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Artifact"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Swiftfoot Boots"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Instant"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Swords to Plowshares"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Tainted Field"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Artifact"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Talisman of Hierarchy"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Temple of Silence"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Temple of the False God"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Timothar, Baron of Bats"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Artifact"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Arcane Signet"
+    }
+   }
+  }
+ ]
+}

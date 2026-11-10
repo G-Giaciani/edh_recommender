@@ -1,0 +1,888 @@
+{
+ "id": 2443238,
+ "name": "$15 Aggro",
+ "categories": [
+  {
+   "name": "Land",
+   "includedInDeck": true
+  },
+  {
+   "name": "Maybeboard",
+   "includedInDeck": false
+  },
+  {
+   "name": "Commander",
+   "includedInDeck": true
+  },
+  {
+   "name": "Creature",
+   "includedInDeck": true
+  },
+  {
+   "name": "Modify",
+   "includedInDeck": true
+  },
+  {
+   "name": "Recursion",
+   "includedInDeck": true
+  },
+  {
+   "name": "Alt Win Cons",
+   "includedInDeck": true
+  },
+  {
+   "name": "Pump",
+   "includedInDeck": true
+  },
+  {
+   "name": "Card Draw",
+   "includedInDeck": true
+  },
+  {
+   "name": "Haste Enablers",
+   "includedInDeck": true
+  },
+  {
+   "name": "Interaction",
+   "includedInDeck": true
+  },
+  {
+   "name": "Attack Payoffs",
+   "includedInDeck": true
+  },
+  {
+   "name": "Extra Combats",
+   "includedInDeck": true
+  },
+  {
+   "name": "Go Wide",
+   "includedInDeck": true
+  },
+  {
+   "name": "Protection",
+   "includedInDeck": true
+  },
+  {
+   "name": "Ramp",
+   "includedInDeck": true
+  }
+ ],
+ "cards": [
+  {
+   "quantity": 1,
+   "categories": [
+    "Interaction"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Gaze of Pain"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Go Wide"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Haazda Marshal"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Go Wide"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Battle Screech"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Recursion"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Sun Titan"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Go Wide"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Goblin Traprunner"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Ramp"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Hoarding Ogre"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Recursion"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Bereaved Survivor // Dauntless Avenger"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Card Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Mentor of the Meek"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Extra Combats"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Response // Resurgence"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Go Wide"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Falconer Adept"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Terramorphic Expanse"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Evolving Wilds"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Card Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Painful Truths"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Ramp"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Commander's Sphere"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Alt Win Cons"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Thundering Raiju"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Recursion"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Gorex, the Tombshell"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Card Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Audacious Thief"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Card Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Greed"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Recursion"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Victimize"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Wind-Scarred Crag"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Scoured Barrens"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Bloodfell Caves"
+    }
+   }
+  },
+  {
+   "quantity": 11,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Plains"
+    }
+   }
+  },
+  {
+   "quantity": 11,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Mountain"
+    }
+   }
+  },
+  {
+   "quantity": 8,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Swamp"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Attack Payoffs"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Honored Crop-Captain"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Attack Payoffs"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Hellrider"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Card Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Glint-Sleeve Siphoner"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Go Wide"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Mardu Strike Leader"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Attack Payoffs"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Ankle Shanker"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Go Wide"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Mardu Ascendancy"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Protection"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Make a Stand"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Ramp"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Cheering Fanatic"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Go Wide"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Skyknight Vanguard"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Attack Payoffs"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Flamerush Rider"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Protection"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Rootborn Defenses"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Haste Enablers"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Crashing Drawbridge"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Interaction"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Mortify"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Go Wide"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Akroan Hoplite"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Attack Payoffs"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Taranika, Akroan Veteran"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Interaction"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Dire Tactics"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Recursion"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Alesha, Who Smiles at Death"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Interaction"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Shiny Impetus"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Attack Payoffs"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Martial Impetus"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Interaction"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Crackling Doom"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Attack Payoffs"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Adriana, Captain of the Guard"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Haste Enablers"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Tuktuk Rubblefort"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Card Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Emberwilde Captain"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Alt Win Cons"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Coastline Marauders"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Recursion"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Rakshasa Debaser"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Protection"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Valorous Stance"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Protection"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Unbreakable Formation"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Go Wide"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Combat Calligrapher"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Ramp"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Ebony Fly"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Attack Payoffs"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Fey Steed"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Card Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Thorough Investigation"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Ramp"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Explorer's Scope"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Card Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Tectonic Giant"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Haste Enablers"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Goro-Goro, Disciple of Ryusei"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Ramp",
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Peerless Samurai"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Extra Combats",
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Raiyuu, Storm's Edge"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Protection"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Selfless Samurai"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Ramp"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Fable of the Mirror-Breaker // Reflection of Kiki-Jiki"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Recursion"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Unforgiving One"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Haste Enablers"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Rabbit Battery"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Recursion"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Imperial Recovery Unit"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Interaction"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Twisted Embrace"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Ramp"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Ecologist's Terrarium"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Interaction"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Explosive Entry"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Extra Combats"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Akki Battle Squad"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Go Wide"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Krenko, Tin Street Kingpin"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Nadaar, Selfless Paladin"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Alt Win Cons"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Triumphant Adventurer"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Commander"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Isshin, Two Heavens as One"
+    }
+   }
+  }
+ ]
+}

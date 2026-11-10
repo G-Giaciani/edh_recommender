@@ -1,0 +1,3128 @@
+{
+ "id": 11462875,
+ "name": "Yshtola Control",
+ "categories": [
+  {
+   "name": "Sideboard",
+   "includedInDeck": true
+  },
+  {
+   "name": "Counters",
+   "includedInDeck": true
+  },
+  {
+   "name": "Tokens & Extras",
+   "includedInDeck": false
+  },
+  {
+   "name": "Boardwipe",
+   "includedInDeck": true
+  },
+  {
+   "name": "Theft",
+   "includedInDeck": true
+  },
+  {
+   "name": "Maybeboard",
+   "includedInDeck": false
+  },
+  {
+   "name": "Tutor",
+   "includedInDeck": true
+  },
+  {
+   "name": "Flash",
+   "includedInDeck": true
+  },
+  {
+   "name": "Mill",
+   "includedInDeck": true
+  },
+  {
+   "name": "Finisher",
+   "includedInDeck": true
+  },
+  {
+   "name": "Untap",
+   "includedInDeck": true
+  },
+  {
+   "name": "Copy",
+   "includedInDeck": true
+  },
+  {
+   "name": "Enchantment",
+   "includedInDeck": true
+  },
+  {
+   "name": "Counter",
+   "includedInDeck": true
+  },
+  {
+   "name": "Burn",
+   "includedInDeck": true
+  },
+  {
+   "name": "Sorcery",
+   "includedInDeck": true
+  },
+  {
+   "name": "Anthem",
+   "includedInDeck": true
+  },
+  {
+   "name": "Blink",
+   "includedInDeck": true
+  },
+  {
+   "name": "Evasion",
+   "includedInDeck": true
+  },
+  {
+   "name": "Ramp",
+   "includedInDeck": true
+  },
+  {
+   "name": "Artifact",
+   "includedInDeck": true
+  },
+  {
+   "name": "Drain",
+   "includedInDeck": true
+  },
+  {
+   "name": "Stax",
+   "includedInDeck": true
+  },
+  {
+   "name": "Recursion",
+   "includedInDeck": true
+  },
+  {
+   "name": "Tokens",
+   "includedInDeck": true
+  },
+  {
+   "name": "Removal",
+   "includedInDeck": true
+  },
+  {
+   "name": "Lifegain",
+   "includedInDeck": true
+  },
+  {
+   "name": "Draw",
+   "includedInDeck": true
+  },
+  {
+   "name": "Protection",
+   "includedInDeck": true
+  },
+  {
+   "name": "Commander",
+   "includedInDeck": true
+  },
+  {
+   "name": "Planeswalker",
+   "includedInDeck": true
+  },
+  {
+   "name": "Land",
+   "includedInDeck": true
+  },
+  {
+   "name": "Creature",
+   "includedInDeck": true
+  },
+  {
+   "name": "Instant",
+   "includedInDeck": true
+  }
+ ],
+ "cards": [
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Recursion",
+    "Sorcery"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Revival // Revenge"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Draw",
+    "Artifact"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Wedding Ring"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Removal",
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Maha, Its Feathers Night"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Reliquary Tower"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Protection"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Semester's End"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Removal"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Swift Reconfiguration"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Removal",
+    "Boardwipe"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Terminus"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Tutor"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Transmute Artifact"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Removal"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Despark"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Tutor"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Demonic Tutor"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Tutor"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Diabolic Intent"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Protection"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Eel Umbra"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Lifegain"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Exquisite Blood"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Removal",
+    "Boardwipe"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Farewell"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Protection"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Greater Auramancy"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Hall of Heliod's Generosity"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Tutor"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Imperial Seal"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Removal"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Imprisoned in the Moon"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Ramp"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Land Tax"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Protection"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Minion's Return"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Draw",
+    "Artifact"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Marina Vendrell's Grimoire"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Draw",
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Mesa Enchantress"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Instant",
+    "Counter"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Flusterstorm"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Instant",
+    "Counter"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Mana Drain"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Black Market Connections"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Tamiyo's Journal"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Wall of Omens"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Teferi's Ageless Insight"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Protection"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Cosmic Intervention"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Protection"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Eerie Interlude"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Protection"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Mithril Coat"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Protection"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Sphere of Safety"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Ramp"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Mindsplice Apparatus"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Counter"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Undermine"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Removal",
+    "Instant"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Hideous End"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Removal",
+    "Boardwipe",
+    "Sorcery"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Promise of Loyalty"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Draw",
+    "Sorcery"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Deep Analysis"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Instant",
+    "Protection"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Clever Concealment"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Draw",
+    "Enchantment"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Curiosity"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Artifact"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Strionic Resonator"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Removal",
+    "Enchantment"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Sigil of Sleep"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Draw",
+    "Enchantment"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Helm of the Ghastlord"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Draw",
+    "Drain",
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Scrawling Crawler"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Protection",
+    "Artifact"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Norn's Annex"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Draw",
+    "Sorcery"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Compulsive Research"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Creature",
+    "Ramp"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Thunderclap Drake"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Drain",
+    "Enchantment"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Wound Reflection"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Drain",
+    "Enchantment"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Underworld Dreams"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Counter",
+    "Instant"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Unwind"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Removal",
+    "Instant"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Snuff Out"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Instant",
+    "Removal"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Psionic Blast"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Removal",
+    "Instant"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Abolish"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Counter",
+    "Instant"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Disallow"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Counter",
+    "Instant"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Flare of Denial"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Draw",
+    "Instant"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Hazel's Nocturne"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Draw",
+    "Instant"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Behold the Multiverse"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Draw",
+    "Instant"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Brainstorm"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Draw",
+    "Instant"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Crushing Disappointment"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Tutor",
+    "Instant"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Lim-Dûl's Vault"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Draw",
+    "Instant"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Frantic Search"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Drain",
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Kambal, Consul of Allocation"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Tutor"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Fabricate"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Protection"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Ghostly Prison"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Tutor"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Grim Tutor"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Narset, Parter of Veils"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Preordain"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Draw",
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Archmage of Runes"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Protection",
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Grand Abolisher"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Tutor"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Demonic Consultation"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Recursion",
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Heliod, the Radiant Dawn // Heliod, the Warped Eclipse"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Removal",
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Witch Enchanter // Witch-Blessed Meadow"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Tokens"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Anointed Procession"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Removal"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Aura of Silence"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Removal"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Eaten by Piranhas"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Removal"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Elspeth Conquers Death"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Removal"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Mystic Subdual"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Recursion"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Necromancy"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Removal"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Parallax Wave"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Spirited Companion"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Removal"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Negate"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Tutor"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Diabolic Tutor"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Tutor"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Beseech the Mirror"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Recursion"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Entreat the Dead"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Gitaxian Probe"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Ponder"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Recursion"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Reanimate"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Enchantment"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Black Market"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Trouble in Pairs"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Protection"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Robe of Stars"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Sensei's Divining Top"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Stax"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Telepathy"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Stax"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Blind Obedience"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Removal"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Cast Out"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Tutor"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Idyllic Tutor"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Theft"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Mnemonic Betrayal"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Removal"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Out of Time"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Protection"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Propaganda"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Removal"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Reality Acid"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Removal"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Touch the Spirit Realm"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Tutor"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Wishclaw Talisman"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Ramp"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Wayfarer's Bauble"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Tutor"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Praetor's Grasp"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Sea Gate Restoration // Sea Gate, Reborn"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Aminatou's Augury"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "The One Ring"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Stax"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Opposition Agent"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Sunlit Marsh"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Raffine's Tower"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Exotic Orchard"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Watery Grave"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Hallowed Fountain"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Vault of Champions"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Isolated Chapel"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Glacial Fortress"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Drowned Catacomb"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Thriving Heath"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Drain",
+    "Artifact"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Iron Maiden"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Draw",
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "The Council of Four"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Recursion"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Redress Fate"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Bojuka Bog"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Removal"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Banishing Stroke"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Removal",
+    "Boardwipe"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Ondu Inversion // Ondu Skyruins"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Protection",
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Vexilus Praetor"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Creature",
+    "Recursion"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Archaeomancer"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Draw",
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Baleful Strix"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Counter",
+    "Instant"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Arcane Denial"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Draw",
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Archivist of Oghma"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Creature",
+    "Tokens"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Chasm Skulker"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Ramp",
+    "Instant"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Cabal Ritual"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Instant",
+    "Removal"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Cyclonic Rift"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Ramp",
+    "Instant"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Dark Ritual"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Creature",
+    "Removal"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Elesh Norn, Grand Cenobite"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Tutor",
+    "Instant"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Entomb"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Stax",
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Drannith Magistrate"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Fell the Profane // Fell Mire"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Removal",
+    "Instant"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Generous Gift"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Removal",
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Hullbreaker Horror"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Creature",
+    "Stax"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Drana and Linvala"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Instant",
+    "Counter"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Counterspell"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Drain",
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Enduring Tenacity"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Draw",
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Ledger Shredder"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Removal",
+    "Instant"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Fracture"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Counter",
+    "Instant"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Mindbreak Trap"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Draw",
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Mulldrifter"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Creature",
+    "Drain"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Psychosis Crawler"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Draw",
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Notion Thief"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Draw",
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Pollywog Prodigy"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Tutor",
+    "Instant"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Mystical Tutor"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Protection",
+    "Instant"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Silence"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Drain",
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Sheoldred, the Apocalypse"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Sink into Stupor // Soporific Springs"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Counter",
+    "Instant"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Swan Song"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Tutor",
+    "Instant"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Vampiric Tutor"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Waterlogged Teachings // Inundated Archive"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Tutor",
+    "Instant"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Whir of Invention"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Ramp",
+    "Artifact"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Thran Dynamo"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Draw",
+    "Enchantment"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Ophidian Eye"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Ramp",
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Baral, Chief of Compliance"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Drain",
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Vito, Thorn of the Dusk Rose"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Removal"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Dovin's Veto"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Minamo, School at Water's Edge"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Removal"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Mortify"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Ancient Tomb"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Removal"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Asinine Antics"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Removal",
+    "Boardwipe"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Blasphemous Edict"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Removal"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Council's Judgment"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Removal"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Damn"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Removal"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Obscura Charm"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Otawara, Soaring City"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Recursion"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Sevinne's Reclamation"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Removal"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Utter Insignificance"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Removal",
+    "Boardwipe"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Wrath of God"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Removal"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Darksteel Mutation"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Removal",
+    "Boardwipe"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Devastation Tide"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Removal",
+    "Boardwipe"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Rout"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Removal"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Anguished Unmaking"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Removal",
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Loran of the Third Path"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Creature",
+    "Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Archmage Emeritus"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Protection",
+    "Enchantment"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Blessing of Leeches"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Instant",
+    "Removal"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Esper Charm"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Arcane Sanctum"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Removal",
+    "Instant"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Baleful Mastery"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Removal",
+    "Instant"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Clutch of the Undercity"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Counter",
+    "Instant"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Misdirection"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Removal",
+    "Enchantment"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Parasitic Impetus"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Godless Shrine"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Command Tower"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Sea of Clouds"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Morphic Pool"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Removal",
+    "Instant"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Stroke of Midnight"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Boardwipe",
+    "Removal"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Toxic Deluge"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Removal"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Vindicate"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Instant",
+    "Removal"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Swords to Plowshares"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Flash"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Borne Upon a Wind"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Counter",
+    "Instant"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Force of Negation"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Removal",
+    "Instant"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Path to Exile"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Counter",
+    "Instant"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Permission Denied"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Moderation"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Mystic Remora"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Removal",
+    "Instant"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Dismember"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Boardwipe"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Yahenni's Expertise"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Counter"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Counterpoint"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Counter"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Dream Fracture"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Counter",
+    "Instant"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Perplex"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Drain",
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Liesa, Shroud of Dusk"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Ramp",
+    "Enchantment"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "As Foretold"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Protection",
+    "Instant"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Courageous Resolve"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Counter",
+    "Instant"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Dismiss"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Drain"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Queza, Augur of Agonies"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Boardwipe",
+    "Removal",
+    "Sorcery"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Slash the Ranks"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Boardwipe"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Single Combat"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Protection"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Ultimate Magic: Holy"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Draw",
+    "Instant"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Brainsurge"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Removal"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Observed Stasis"
+    }
+   }
+  },
+  {
+   "quantity": 9,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Swamp"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Circle of Power"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Sideboard",
+    "Boardwipe",
+    "Removal"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Austere Command"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Draw",
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Delney, Streetwise Lookout"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Sideboard",
+    "Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Alhammarret's Archive"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Ramp",
+    "Enchantment"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Smothering Tithe"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Protection",
+    "Instant"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Teferi's Protection"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Draw",
+    "Enchantment"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Rhystic Study"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Protection",
+    "Drain",
+    "Artifact"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Caduceus, Staff of Hermes"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Draw",
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Erebos, God of the Dead"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Protection",
+    "Enchantment"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Propaganda"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Ramp"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Lyse Hext"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Ramp"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Lotho, Corrupt Shirriff"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Draw",
+    "Instant"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Transpose"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Drain",
+    "Enchantment"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Bloodchief Ascension"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Protection",
+    "Artifact",
+    "Enchantment"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Ghostly Prison"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Ramp"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Tataru Taru"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Commander"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Y'shtola, Night's Blessed"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Draw",
+    "Artifact"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Staff of Compleation"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Draw",
+    "Enchantment"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Arguel's Blood Fast // Temple of Aclazotz"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Recursion"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Emet-Selch of the Third Seat"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Stax"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Kataki, War's Wage"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Stax"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Confounding Conundrum"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Stax"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Land Equilibrium"
+    }
+   }
+  },
+  {
+   "quantity": 11,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Island"
+    }
+   }
+  },
+  {
+   "quantity": 2,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Plains"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Sorcery"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Exsanguinate"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Drain"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Fandaniel, Telophoroi Ascian"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Maybeboard",
+    "Protection"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Norn's Annex"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Ramp",
+    "Creature",
+    "Stax"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Grand Arbiter Augustin IV"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Counter",
+    "Instant"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Fierce Guardianship"
+    }
+   }
+  }
+ ]
+}

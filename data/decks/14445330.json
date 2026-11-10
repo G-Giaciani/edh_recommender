@@ -1,0 +1,1039 @@
+{
+ "id": 14445330,
+ "name": "Raffine Aggro",
+ "categories": [
+  {
+   "name": "Sorcery",
+   "includedInDeck": true
+  },
+  {
+   "name": "Creature",
+   "includedInDeck": true
+  },
+  {
+   "name": "Instant",
+   "includedInDeck": true
+  },
+  {
+   "name": "Artifact",
+   "includedInDeck": true
+  },
+  {
+   "name": "Enchantment",
+   "includedInDeck": true
+  },
+  {
+   "name": "Draw Cards",
+   "includedInDeck": true
+  },
+  {
+   "name": "Wombo Combo",
+   "includedInDeck": true
+  },
+  {
+   "name": "Mana",
+   "includedInDeck": true
+  },
+  {
+   "name": "Attack Attack",
+   "includedInDeck": true
+  },
+  {
+   "name": "Interaction",
+   "includedInDeck": true
+  },
+  {
+   "name": "Protection",
+   "includedInDeck": true
+  },
+  {
+   "name": "Land",
+   "includedInDeck": true
+  },
+  {
+   "name": "Commander",
+   "includedInDeck": true
+  }
+ ],
+ "cards": [
+  {
+   "quantity": 3,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Swamp"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Clearwater Pathway // Murkwater Pathway"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Raffine's Tower"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Isolated Chapel"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Ancient Ziggurat"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Polluted Delta"
+    }
+   }
+  },
+  {
+   "quantity": 5,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Island"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Command Tower"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Flooded Strand"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Hengegate Pathway // Mistgate Pathway"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Marsh Flats"
+    }
+   }
+  },
+  {
+   "quantity": 6,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Plains"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Mana Confluence"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Exotic Orchard"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Caves of Koilos"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Interaction"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Static Snare"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Mana"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Stormscape Familiar"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Concealed Courtyard"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Watery Grave"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Sea of Clouds"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Godless Shrine"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Cephalid Coliseum"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Glacial Fortress"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Drowned Catacomb"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Seachrome Coast"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Interaction"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Kabira Takedown // Kabira Plateau"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Protection"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Sejiri Shelter // Sejiri Glacier"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Silent Clearing"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Hallowed Fountain"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Interaction"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Within Range"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Attack Attack"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Avenger of the Fallen"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Attack Attack"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Ainok Strike Leader"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Mana"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Claim Jumper"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Attack Attack"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Cunning Survivor"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Attack Attack"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Azure Beastbinder"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Interaction"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Sheltered by Ghosts"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Draw Cards"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Coastal Piracy"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Commander"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Raffine, Scheming Seer"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Attack Attack"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Charismatic Conqueror"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Draw Cards"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Teferi's Ageless Insight"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Interaction"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Cathar Commando"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Attack Attack"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Adeline, Resplendent Cathar"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Draw Cards"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Bident of Thassa"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Wombo Combo"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Sphinx's Tutelage"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Attack Attack"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Archfiend of Ifnir"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Protection"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Invasion of Gobakhan // Lightshield Array"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Interaction"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Big Game Hunter"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Draw Cards"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Reconnaissance Mission"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Attack Attack"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Veteran Ice Climber"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Attack Attack"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Voice of Victory"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Draw Cards"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Monument to Endurance"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Protection"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Skrelv, Defector Mite"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Protection"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Grand Crescendo"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Attack Attack"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Scrounging Skyray"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Interaction"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Path to Exile"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Attack Attack"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Cryptcaller Chariot"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Protection"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Dragonfire Blade"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Protection"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Pippin, Guard of the Citadel"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Protection"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Mausoleum Wanderer"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Interaction"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "An Offer You Can't Refuse"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Wombo Combo"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Ascend from Avernus"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Interaction"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Stubborn Denial"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Interaction"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Dispel"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Wombo Combo"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Immortal Servitude"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Wombo Combo"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Victimize"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Attack Attack"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Swooping Lookout"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Draw Cards"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Yathan Tombguard"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Protection"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Mother of Runes"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Protection"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Selfless Spirit"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Protection"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Spellskite"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Wombo Combo"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Phantasmal Image"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Attack Attack"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Miner's Guidewing"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Attack Attack"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Wonder"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Attack Attack"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Wyrm's Crossing Patrol"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Wombo Combo"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Lurrus of the Dream-Den"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Mana"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Loyal Warhound"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Draw Cards"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Pollywog Prodigy"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Wombo Combo"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Corpse Knight"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Protection"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Plumecreed Escort"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Draw Cards"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Esper Sentinel"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Protection"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Siren Stormtamer"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Wombo Combo"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Mirko, Obsessive Theorist"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Attack Attack"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Duelist of the Mind"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Protection"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Esior, Wardwing Familiar"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Attack Attack"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Jacked Rabbit"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Attack Attack"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Dalkovan Packbeasts"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Protection"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Gold-Forged Thopteryx"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Draw Cards"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Enduring Curiosity"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Attack Attack"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Ornithopter"
+    }
+   }
+  }
+ ]
+}

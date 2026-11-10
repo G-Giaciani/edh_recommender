@@ -1,0 +1,1012 @@
+{
+ "id": 8497473,
+ "name": "Animated Army - Bloomburrow Commander",
+ "categories": [
+  {
+   "name": "Planeswalker",
+   "includedInDeck": true
+  },
+  {
+   "name": "Instant",
+   "includedInDeck": true
+  },
+  {
+   "name": "Sorcery",
+   "includedInDeck": true
+  },
+  {
+   "name": "Enchantment",
+   "includedInDeck": true
+  },
+  {
+   "name": "Pump",
+   "includedInDeck": true
+  },
+  {
+   "name": "Artifact",
+   "includedInDeck": true
+  },
+  {
+   "name": "Landfall",
+   "includedInDeck": true
+  },
+  {
+   "name": "Counters",
+   "includedInDeck": true
+  },
+  {
+   "name": "Burn",
+   "includedInDeck": true
+  },
+  {
+   "name": "Evasion",
+   "includedInDeck": true
+  },
+  {
+   "name": "Tokens",
+   "includedInDeck": true
+  },
+  {
+   "name": "Land",
+   "includedInDeck": true
+  },
+  {
+   "name": "Draw",
+   "includedInDeck": true
+  },
+  {
+   "name": "Anthem",
+   "includedInDeck": true
+  },
+  {
+   "name": "Creature",
+   "includedInDeck": true
+  },
+  {
+   "name": "Ramp",
+   "includedInDeck": true
+  },
+  {
+   "name": "Removal",
+   "includedInDeck": true
+  },
+  {
+   "name": "Commander",
+   "includedInDeck": true
+  },
+  {
+   "name": "Maybeboard",
+   "includedInDeck": false
+  },
+  {
+   "name": "Sideboard",
+   "includedInDeck": true
+  }
+ ],
+ "cards": [
+  {
+   "quantity": 1,
+   "categories": [
+    "Enchantment"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Berserkers' Onslaught"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Instant"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Big Score"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Enchantment"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Alchemist's Talent"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Artifact"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Arcane Signet"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Instant"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Abrade"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Instant"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Beast Within"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Sorcery"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Blasphemous Act"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Brightcap Badger // Fungus Frolic"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Cinder Glade"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Command Tower"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Copperline Gorge"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Evercoat Ursine"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Evolving Wilds"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Exotic Orchard"
+    }
+   }
+  },
+  {
+   "quantity": 10,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Forest"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Forgotten Cave"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Game Trail"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Gruul Turf"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Karplusan Forest"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Mossfire Valley"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Mosswort Bridge"
+    }
+   }
+  },
+  {
+   "quantity": 8,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Mountain"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Path of Ancestry"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Pyreswipe Hawk"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Raging Ravine"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Reliquary Tower"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Artifact"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Rolling Hamsphere"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Rootbound Crag"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Sheltered Thicket"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Teapot Slinger"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Temple of Abandon"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Terramorphic Expanse"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Tranquil Thicket"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Grumgully, the Generous"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Grothama, All-Devouring"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Enchantment"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Greater Good"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Enchantment"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Garruk's Uprising"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Artifact"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Bootleggers' Stash"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Enchantment"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Path of Discovery"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Enchantment"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Outpost Siege"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Sorcery"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Explore"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Rampaging Baloths"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Enchantment"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Unnatural Growth"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Ghalta, Primal Hunger"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Wildsear, Scouring Maw"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Artifact"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Esika's Chariot"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Enchantment"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Primeval Bounty"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Garruk's Packleader"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Etali, Primal Storm"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Enchantment"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Thickest in the Thicket"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Burnished Hart"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Sorcery"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Cultivate"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Sorcery"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Harmonize"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Planeswalker"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Domri, Anarch of Bolas"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Sorcery"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Decimate"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Artifact"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Spine of Ish Sah"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Instant"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Starstorm"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Enchantment"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Warstorm Surge"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Sorcery"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Farseek"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Artifact"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Fellwar Stone"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Artifact"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Gilded Lotus"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Goreclaw, Terror of Qal Sisma"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Artifact"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Gruul Signet"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Artifact"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Hedron Archive"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Kodama of the East Tree"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Llanowar Loamspeaker"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Lotus Cobra"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Artifact"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Mind Stone"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Enchantment"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Rain of Riches"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Sorcery"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Rampant Growth"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Sakura-Tribe Elder"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Artifact"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Sol Ring"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Artifact"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Talisman of Impulse"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Artifact"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Thought Vessel"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Artifact"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Thran Dynamo"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Trailtracker Scout"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Wandertale Mentor"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Enchantment"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Sunbird's Invocation"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Instant"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Chaos Warp"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Wooded Ridgeline"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Enchantment"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Gratuitous Violence"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Tendershoot Dryad"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Creature"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Prosperous Bandit"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Commander"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Bello, Bard of the Brambles"
+    }
+   }
+  }
+ ]
+}

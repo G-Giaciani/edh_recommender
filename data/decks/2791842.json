@@ -1,0 +1,1299 @@
+{
+ "id": 2791842,
+ "name": "$15 Mana Dork Aggro",
+ "categories": [
+  {
+   "name": "Land",
+   "includedInDeck": true
+  },
+  {
+   "name": "Optional - Awakened Lands",
+   "includedInDeck": false
+  },
+  {
+   "name": "Win Cons",
+   "includedInDeck": true
+  },
+  {
+   "name": "Recursion",
+   "includedInDeck": true
+  },
+  {
+   "name": "Buyback",
+   "includedInDeck": true
+  },
+  {
+   "name": "Commander",
+   "includedInDeck": true
+  },
+  {
+   "name": "Protection",
+   "includedInDeck": true
+  },
+  {
+   "name": "Interaction",
+   "includedInDeck": true
+  },
+  {
+   "name": "Card Draw",
+   "includedInDeck": true
+  },
+  {
+   "name": "Upgrades",
+   "includedInDeck": false
+  },
+  {
+   "name": "Haste Enablers",
+   "includedInDeck": true
+  },
+  {
+   "name": "Mana Dorks",
+   "includedInDeck": true
+  }
+ ],
+ "cards": [
+  {
+   "quantity": 1,
+   "categories": [
+    "Mana Dorks"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Llanowar Elves"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Mana Dorks"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Werebear"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Mana Dorks"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Beastcaller Savant"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Upgrades"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Wrap in Vigor"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Mana Dorks"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Copper Myr"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Mana Dorks"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Iron Myr"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Mana Dorks"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Druid of the Cowl"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Mana Dorks"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Zhur-Taa Druid"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Haste Enablers"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Fires of Yavimaya"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Mana Dorks"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Ilysian Caryatid"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Mana Dorks"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Leafkin Avenger"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Card Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Llanowar Visionary"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Mana Dorks"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Whisperer of the Wilds"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Mana Dorks"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Tangled Florahedron // Tangled Vale"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Mana Dorks"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Fyndhorn Elves"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Card Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Gilanra, Caller of Wirewood"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Protection"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Dawnglade Regent"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Interaction"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Reclamation Sage"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Mana Dorks"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Elvish Mystic"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Mana Dorks"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Radha, Heir to Keld"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Mana Dorks"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Ornithopter of Paradise"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Mana Dorks"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Paradise Druid"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Mana Dorks"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Orcish Lumberjack"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Mana Dorks"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Reclusive Taxidermist"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Upgrades"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Silkguard"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Card Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Shamanic Revelation"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Mana Dorks"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Rishkar, Peema Renegade"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Mana Dorks"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Incubation Druid"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Mana Dorks"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Leafkin Druid"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Upgrades"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Marwyn, the Nurturer"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Upgrades"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Birds of Paradise"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Upgrades"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Beast Whisperer"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Upgrades"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Boreal Druid"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Upgrades"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Kamahl, Heart of Krosa"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Upgrades"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Leyline of Abundance"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Upgrades"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Shaman of Forgotten Ways"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Upgrades"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Devoted Druid"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Upgrades"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Regal Force"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Upgrades"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Priest of Titania"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Interaction"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Clan Defiance"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Mana Dorks"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "From Beyond"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Upgrades"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Wurmcalling"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Interaction"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Fanning the Flames"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Win Cons"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Colossification"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Card Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Primordial Sage"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Card Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Balduvian Rage"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Interaction"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Jaya's Immolating Inferno"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Interaction"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Klauth's Will"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Card Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Commune with Lava"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Card Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Apex of Power"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Card Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "March of Reckless Joy"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Card Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Harmonize"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Upgrades"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Awakening Zone"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Card Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Lifecrafter's Bestiary"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Upgrades"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Kindred Summons"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Upgrades"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Genesis Wave"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Upgrades"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Ezuri's Predation"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Upgrades"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Beastmaster Ascension"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Upgrades"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Decimator of the Provinces"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Win Cons"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Gigantomancer"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Mana Dorks"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Viridian Joiner"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Mana Dorks"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Heart Warden"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Win Cons"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "End-Raze Forerunners"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Interaction"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Meteor Golem"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Haste Enablers"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Invigorating Hot Spring"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Haste Enablers"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Tuktuk Rubblefort"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Win Cons"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Terror of Mount Velus"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Card Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Signal the Clans"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Upgrades"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Beast Within"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Upgrades"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Chaos Warp"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Mana Dorks"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Birthing Hulk"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Upgrades"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Archetype of Endurance"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Upgrades"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Cauldron of Souls"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Win Cons"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Liege of the Tangle"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Win Cons"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Kamahl's Will"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Optional - Awakened Lands"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Earth Surge"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Optional - Awakened Lands"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Sylvan Awakening"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Optional - Awakened Lands"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Nature's Revolt"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Optional - Awakened Lands"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Natural Affinity"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Optional - Awakened Lands"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Natural Emergence"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Optional - Awakened Lands"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Ambush Commander"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Optional - Awakened Lands"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Sylvan Advocate"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Optional - Awakened Lands"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Awakening of Vitu-Ghazi"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Mana Dorks"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Alena, Kessig Trapper"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Optional - Awakened Lands"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Anthousa, Setessan Hero"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Optional - Awakened Lands"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Rude Awakening"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Optional - Awakened Lands"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Primal Adversary"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Optional - Awakened Lands"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Den of the Bugbear"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Optional - Awakened Lands"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Blinkmoth Nexus"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Optional - Awakened Lands"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Nissa, Vital Force"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Optional - Awakened Lands"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Nissa, Who Shakes the World"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Optional - Awakened Lands"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Nissa, Worldwaker"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Optional - Awakened Lands"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Ashaya, Soul of the Wild"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Optional - Awakened Lands"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Living Terrain"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Optional - Awakened Lands"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Vastwood Zendikon"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Optional - Awakened Lands"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Bear Umbra"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Optional - Awakened Lands"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Embodiment of Insight"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Optional - Awakened Lands"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Jolrael, Empress of Beasts"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Interaction"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Fall of the Titans"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Interaction"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Street Spasm"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Interaction"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Volcanic Geyser"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Upgrades"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Crackle with Power"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Interaction"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Heaven // Earth"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Card Draw"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Nissa's Revelation"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Interaction"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Devil's Play"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Interaction"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Primal Might"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Protection"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Wild Ricochet"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Win Cons"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Exponential Growth"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Upgrades"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Squall Line"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Mana Dorks"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Drover of the Mighty"
+    }
+   }
+  },
+  {
+   "quantity": 20,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Forest"
+    }
+   }
+  },
+  {
+   "quantity": 16,
+   "categories": [
+    "Land"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Mountain"
+    }
+   }
+  },
+  {
+   "quantity": 1,
+   "categories": [
+    "Commander"
+   ],
+   "card": {
+    "oracleCard": {
+     "name": "Raggadragga, Goreguts Boss"
+    }
+   }
+  }
+ ]
+}
